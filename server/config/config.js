@@ -5,5 +5,5 @@ module.exports = {
   db: {
     uri:'mongodb://Admin:password1@ds117545.mlab.com:17545/b0tt13', //place the URI of your mongo database here.
   }, 
-  port: 8080
+  port: 5000
 };
